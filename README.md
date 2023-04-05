@@ -7,15 +7,6 @@ Logistics Analyst | HTML5 | CSS | Javascript
 
 📫Every day I feel motivated to learn more about technology. I started out wanting to create a news site and I thought it would be easy, but I saw that I should disconnect from everything and learn from scratch to achieve my goals. What is the result of all this? An unconditional passion for programming and an immense desire to always evolve.
 
-## 🔭 What am i working on...
-Working on projects that can change the world
-
-## 🌱 What am i studying...
-Studying programming logic
-
-## 👯 Where I am always collaborating...
-You can always find me on discord
-
 ## 📫 How can you contact me?
 You can connect with me on <em>Linkedin</em> through [this link](https://www.linkedin.com/in/fellipiborges/)
 
