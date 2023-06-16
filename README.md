@@ -2,7 +2,7 @@
 <h1 align ="center">### Hi there 👋, i'm Nolipe</h1>
 
 <p align="center">
-C# | Backend Developer | MySQL
+C# | Backend Developer | SQL
 </p>
 
 📫Every day I feel motivated to learn more about technology. I started out wanting to create a news site and I thought it would be easy, but I saw that I should disconnect from everything and learn from scratch to achieve my goals. What is the result of all this? An unconditional passion for programming and an immense desire to always evolve.
